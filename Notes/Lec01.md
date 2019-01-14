@@ -18,6 +18,9 @@
 4. CS224S / LINGUIST285 - Spoken Language Processing  
   http://web.stanford.edu/class/cs224s/syllabus.html
   
+5. Speech and Language Processing (3rd ed. draft)  
+  https://web.stanford.edu/~jurafsky/slp3/
+  
 ## Automatic Speech Recognition
 A good Resource: https://medium.com/descript/a-brief-history-of-asr-automatic-speech-recognition-b8f338d4c0e5
 
