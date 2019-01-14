@@ -1,9 +1,9 @@
 ## Course Topics
-- Robustness/Learned Representation
-- Reductive Architecture/Low-resourced language
+- Robustness/Learned Representations
+- Reductive Architectures/Under-resourced Languages
 - Intelligibility/Enhancement/Adaptation
-- RL
-- Time-domain/Phase Representation
+- Policy Gradients/Reinforcement Learning
+- Time-domain/Phase Representations
 
 ## Automatic Speech Recognition
 A good Resource: https://medium.com/descript/a-brief-history-of-asr-automatic-speech-recognition-b8f338d4c0e5
