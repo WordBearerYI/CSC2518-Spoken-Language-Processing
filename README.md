@@ -2,6 +2,8 @@
 
 Course Materials for course CSC2518-Spoken Language Processing
 
+This is a graduate course broadly on topics of speech processing by machine including digital signal processing, automatic speech recognition, and speech synthesis. The theme this year is Speech in healthcare and assistive technologies which will include automatic dictation of speech for medical records, analysis of speech in language pathologies (e.g., in cerebral palsy, Parkinson's disease, and Alzheimer's disease), and assistive technologies such as text-to-speech (with and without brain-computer interfaces) for people with limited speech ability.
+
 ## Course Topics
 
 - Robustness/Learned Representations
